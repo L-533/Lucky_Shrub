@@ -127,7 +127,9 @@ nav li a:hover{
             
 }
 
+
 .info p{
+    
     font-size: 17px;
     column-count: 2;
     column-gap: 40px;
@@ -162,6 +164,7 @@ nav li a:hover{
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); 
     gap: 10px; 
+    padding-bottom: 20px;
     
 }
 
