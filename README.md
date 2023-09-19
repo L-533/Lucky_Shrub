@@ -1,6 +1,6 @@
 # Lucky_Shrub
 
-This is a website for a medium-sized garden design firm, carefully planned to provide an optimal user experience. It features a modern and visually appealing design that seamlessly adapts to devices of any size thanks to its responsive layout.
+This is a web page for a medium-sized garden design firm, carefully planned to provide an optimal user experience. It features a modern and visually appealing design that seamlessly adapts to devices of any size thanks to its responsive layout.
 
 Technologies used: HTML, CSS. <br/>
 
