@@ -8,4 +8,5 @@ url: https://l-533.github.io/Lucky_Shrub/
 
 Index:
 
-![image](https://github.com/L-533/Lucky_Shrub/assets/98188267/df8f922b-f154-4e5d-abd5-36305e5aace4)
+![image](https://github.com/L-533/Lucky_Shrub/assets/98188267/8b285491-d6e4-455a-94c3-cbfce499d307)
+
